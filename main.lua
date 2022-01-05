@@ -1,4 +1,4 @@
---[[
+--[[loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
 Change logs:
 
 12/5/21
